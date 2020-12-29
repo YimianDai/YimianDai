@@ -18,6 +18,15 @@ I am a PhD student at Nanjing University of Aeronautics & Astronautics (NUAA).
 - Email: yimian [dot] dai [at] gmail.com
 - [WeChat (微信)](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG) 
 
+**Publications**:
+
++ **Yimian Dai**, Yiquan Wu, Fei Zhou, Kobus Barnard. Attentional Local Contrast Networks for Infrared Small Target Detection[J]. Accepted by IEEE Transactions on Geoscience and Remote Sensing. ([code](https://github.com/YimianDai/open-alcnet))
++ **Yimian Dai**, Yiquan Wu, Fei Zhou, Kobus Barnard. Asymmetric Contextual Modulation for Infrared Small Target Detection[C]. Accepted by IEEE Winter Conference on Applications of Computer Vision, WACV 2021. ([dataset](https://github.com/YimianDai/sirst), [code](https://github.com/YimianDai/open-acm))
++ **Yimian Dai**, Fabian Gieseke, Stefan Oehmcke, Yiquan Wu, Kobus Barnard. Attentional Feature Fusion[C]. Accepted by IEEE Winter Conference on Applications of Computer Vision, WACV 2021. ([code](https://github.com/YimianDai/open-aff))
++ **Yimian Dai**, Stefan Oehmcke, Fabian Gieseke, Yiquan Wu, Kobus Barnard. Attention as Activation[C]. Accepted by 25th International Conference on Pattern Recognition (ICPR 2020), **Oral**. ([code](https://github.com/YimianDai/open-atac))
++ **Yimian Dai**, Yiquan Wu. Reweighted Infrared Patch-Tensor Model with Both Nonlocal and Local Priors for Single-Frame Small Target Detection[J]. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2017, 10(8), 3752-3767. ([code](https://github.com/YimianDai/DENTIST))
+
+
 
 **Software**:
 
