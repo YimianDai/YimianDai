@@ -1,5 +1,12 @@
 ### Hi there, I'm [Yi-Mian Dai (戴一冕 in Chinese)](https://yimiandai.work/)! 👋
 
+<p align="left"> 
+  <img src="https://img.shields.io/github/followers/YimianDai?label=Followers" alt="github follow" />
+  <img src="https://komarev.com/ghpvc/?username=YimianDai" alt="profile views" /> 
+</p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YimianDai&show_icons=true&include_all_commits=true&count_private=true" alt="chongruo" /> </p>
+
 I am a PhD student at Nanjing University of Aeronautics & Astronautics (NUAA).
 
 🔭 **Reseach-wise, I mainly focus on**:
