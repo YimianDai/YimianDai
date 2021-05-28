@@ -49,6 +49,10 @@ I am a PhD student at Nanjing University of Aeronautics & Astronautics (NUAA).
   - IEEE Geoscience and Remote Sensing Letters (GRSL)
   - Infrared Physics & Technology
 
+**Miscellaneous**:
+
+- [PhD Thesis (in Chinese)](https://raw.githubusercontent.com/YimianDai/public/master/Yimian-PhD-Thesis.pdf)
+
 <!--
 **YimianDai/YimianDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
