@@ -23,7 +23,7 @@ I am a PhD student at Nanjing University of Aeronautics & Astronautics (NUAA).
 📫 **How to reach me**:
 
 - Email: yimian [dot] dai [at] gmail.com
-- [WeChat (微信)](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG) 
+- [WeChat (微信)](https://raw.githubusercontent.com/YimianDai/imgbed/master/github/wechat.JPG) (Anoymous requests are not welcome)
 
 **Publications**:
 
